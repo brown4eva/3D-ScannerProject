@@ -17,6 +17,10 @@ available so that functional prototypes can be constructed by the students.
 * **Jaafer Wesam** 
 * **Sonizara Danie**
 
+## Project Management
+Weekly reports are uploaded here and we made a gannt chart to guide us with our project schedule.
+We also use this online tool to communicate with uurselves during this projects. [Trello Account](https://trello.com/b/MaBdGQ7p/software-engineering)
+
 ## Acknowledgments
 * 3D-Korn
 * Inspiraton by Skanect
