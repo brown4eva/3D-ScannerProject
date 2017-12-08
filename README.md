@@ -22,4 +22,4 @@ Weekly reports are uploaded here and we made a gantt chart to guide us with our 
 We also use this online tool to communicate with ourselves during this projects.Follow the link ==> [Trello Account](https://trello.com/b/MaBdGQ7p/software-engineering)
 
 ## Acknowledgments
-* Inspiraton by Skanect
+* Inspiraton by Skanect Software
