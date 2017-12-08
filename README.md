@@ -1,8 +1,6 @@
 # 3D-Scanner
-This is a Software Engineering Project in which we are to build a 3D scanner. 
+This is a repository for our Software Engineering Project in which we are to build a 3D scanner. 
 
-## Overview
-This is a repository for our software engineering project.
 
 ## Obejectives
 To replace the skanect software by our
